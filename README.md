@@ -1,3 +1,7 @@
 # WeatherApp
 
-<video src="https://github.com/ygorcesar/WeatherApp/blob/main/resources/weather_app_sample.mp4" width="320" />
+![Sample](https://s5.ezgif.com/tmp/ezgif-5-6515d1497d.gif)
+
+![Sample Image](https://s5.ezgif.com/tmp/ezgif-5-6515d1497d.gif)
+
+<img src="https://s5.ezgif.com/tmp/ezgif-5-6515d1497d.gif" width="400" />
