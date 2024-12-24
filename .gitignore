@@ -1,0 +1,65 @@
+.idea/file.template.settings.xml
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Eclipse project files
+.classpath
+.project
+
+# Android Studio
+.idea/*
+!.idea/fileTemplates
+!.idea/file.template.settings.xml
+!.idea/codeStyles
+!.idea/inspectionProfiles
+!.idea/scopes
+
+.gradle
+build/
+buildSrc/build
+.externalNativeBuild/
+
+# IDEA Project Files
+*.iml
+
+# Temp files
+*.swp
+*.tmp
+*.lck
+
+#Preload build result files
+preload_build/*.json
+preload_build/*.gz
+preload_build/*.zip
+
+captures/*
+
+*.cxx
+app/.cxx/*
+
+/device-*.png
+/device-*.mp4
+/Screenshot_*.png
+
+# Kotlin 2.0+
+.kotlin/

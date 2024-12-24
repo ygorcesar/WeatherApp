@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_location_placeholder">Search Location</string>
+    <string name="empty_state_title">No City Selected</string>
+    <string name="empty_state_description">Please Search For A City</string>
+    <string name="error_state_title">Ops!</string>
+    <string name="error_state_description">Something Went Wrong!</string>
+    <string name="error_state_try_again">Try Again</string>
+    <string name="weather_status_humidity">Humidity</string>
+    <string name="weather_status_humidity_value">%1$s%%</string>
+    <string name="weather_status_uv">UV</string>
+    <string name="weather_status_feels_like">Feels Like</string>
+    <string name="weather_status_feels_like_value">%1$s°</string>
+</resources>
